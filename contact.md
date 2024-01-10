@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-you can connect whit me
+test 
 <!-- 
 ### Example Formspree contact form with validation and reCaptcha
 
